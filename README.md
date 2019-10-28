@@ -1,7 +1,7 @@
+# cpcn-client 是专为[CodePush(中国)](http://code-push.cn)开发的客户端工具
+
 # 为什么要开发这个工具？
 
-一、简化在React Native、Cordova项目中集成CodePush热更新服务的工作量，使操作简单化、傻瓜化。
+本来是可以开发一个命令行工具，或者直接在Microsoft的[CodePush](https://github.com/microsoft/code-push)的命令行工具上进行修改。但本人在使用某些命令行工具的过程中，常常会因为某些命令长时间没有使用或很少使用而忘记如何书写。虽说查查文档并不是什么难事，但总归不是很爽，而且还影响效率。
 
-二、使用CodePush提供的命令虽然没什么难度，但作为和我一样的懒人，需要有一个可视化的、直观的、效率更高的工具。
-
-三、CodePush是一个很好的项目，但其服务器位于国外，因众所周知的神奇原因，在我大兲朝不太适用。cpcn-client默认使用[CodePush(中国)](http://code-push.cn)服务，不用开发者再做额外的修改与配置。
+基于此，我为[CodePush(中国)](http://code-push.cn)提供了这个客户端工具，使操作简单化、傻瓜化、以及提高工作效率。
