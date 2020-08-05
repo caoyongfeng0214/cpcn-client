@@ -6,4 +6,6 @@
 
 基于此，[CodePush(中国)](http://code-push.cn)提供了这个客户端工具，使操作简单化、傻瓜化、以便提高工作效率。
 
+下载最新版本：[https://github.com/caoyongfeng0214/cpcn-client/releases](https://github.com/caoyongfeng0214/cpcn-client/releases)
+
 若在使用过程中遇到问题、或有什么好的建议，请提交到这里：[https://github.com/caoyongfeng0214/cpcn-client/issues](https://github.com/caoyongfeng0214/cpcn-client/issues)
